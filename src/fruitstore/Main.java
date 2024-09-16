@@ -14,7 +14,7 @@ public class Main {
         stock.addFruit("Pomme", 5);
 
    
-        stock.addFruit("Poire", 8);// à modifier
+        stock.addFruit("Poire", 8);
 
 
         stock.sellFruit("Ananas", 2);
